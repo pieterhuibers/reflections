@@ -17,3 +17,11 @@ When introducing new features or tyring experimental changes.
 How do the diagrams help you visualize the branch structure?
 
 They show an intuitive tree structure of the commit branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A combined branch with the name of the branch that we merged into.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging saves time, but manual merging leaves you with a better understanding of the changes made in both branches
