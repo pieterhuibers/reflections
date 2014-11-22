@@ -13,3 +13,8 @@ machines. Forks are clones of existing repositories which link back to the origi
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You can check the difference between the remote and local repositories offline.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would use another hosting platform as a git server. Some of the functionality that GitHub provides would be lost however (pull requests,
+easy web interface, etc.).
