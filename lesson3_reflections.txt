@@ -18,3 +18,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 I would use another hosting platform as a git server. Some of the functionality that GitHub provides would be lost however (pull requests,
 easy web interface, etc.).
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+It is much safer to make changes in dedicated feature branches instead of directly in the master branch. This gives you and other people the
+opportunity to review changes before merging them into the master branch (main body of code).
